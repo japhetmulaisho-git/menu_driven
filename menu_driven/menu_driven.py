@@ -1,3 +1,4 @@
+#This application shows a menu for mobile money.
 import os
 
 def clear_screen():
